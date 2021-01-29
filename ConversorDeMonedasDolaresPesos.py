@@ -14,10 +14,10 @@ menu = input("""Bienevenido al conversor de monedas
 Elija la opcion de su pais: """)
 
 if menu == "1":
-    conversor(3569, tipo_pesos)
+    conversor(3569, colombianos)
 elif menu == "2":
-    conversor(87.30, tipo_pesos)
+    conversor(87.30, argentinos)
 elif menu == "3":
-    conversor(20.59, tipo_pesos)
+    conversor(20.59, mexicanos)
 else:
     print("Ingrese una opcion correcta")
