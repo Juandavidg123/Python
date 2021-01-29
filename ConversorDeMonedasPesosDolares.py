@@ -5,6 +5,7 @@ def conversor(tipo_pesos, valor_dolar):
     dolares = round(dolares, 3)
     dolares = str(dolares)
     print("Tienes una cantiad de $" + dolares + " dolares")
+    print("nota: se han tomado el valor del dolar de la fecha 29/01/2021")
 
 menu = input("""Bienevenido al conversor de texto
 (1)Colombia
