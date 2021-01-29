@@ -4,7 +4,7 @@ menu = input("""Bienevenido al conversor de texto
 (3)
 Elija la opcion de su pais: """)
 
-def MonedaDePais(mensaje)
+
     pesos = input("Cantidad de pesos colombianos: ")
     pesos = float(pesos)
     valor_dolar = 3560 
