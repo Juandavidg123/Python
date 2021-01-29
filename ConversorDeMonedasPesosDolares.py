@@ -16,9 +16,9 @@ Elija la opcion de su pais: """)
 if menu == "1":
     conversor("colombianos", 3569 )
 elif menu == "2":
-    conversor("argentinos", 87,30)
+    conversor("argentinos", 87.30)
 elif menu == "3":
-    conversor("mexicanos", 20,59)
+    conversor("mexicanos", 20.59)
 else:
     print("Ingrese una opcion correcta")
 
