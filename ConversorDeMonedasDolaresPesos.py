@@ -18,6 +18,6 @@ if menu == "1":
 elif menu == "2":
     conversor(87.30, tipo_pesos)
 elif menu == "3":
-    conversor(20.59, tipo:pesos)
+    conversor(20.59, tipo_pesos)
 else:
     print("Ingrese una opcion correcta")
