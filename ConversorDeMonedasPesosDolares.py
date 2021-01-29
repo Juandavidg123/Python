@@ -1,3 +1,9 @@
+print("""Bienvenido al conversor
+(1)Colombia
+(2)Argentina
+(3)Mexico
+Elija la opcion de su pais: """)
+
 pesos = input("Cantidad de pesos colombianos: ")
 pesos = float(pesos)
 valor_dolar = 3560 
