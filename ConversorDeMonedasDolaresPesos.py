@@ -7,7 +7,7 @@ def conversor(tipo_pesos, valor_dolar):
     print("Tienes una cantiad de $" + dolares + "pesos" + tipo_pesos)
     print("nota: se han tomado el valor del dolar de la fecha 29/01/2021")
 
-menu = input("""Bienevenido al conversor de texto
+menu = input("""Bienevenido al conversor de monedas
 (1)Colombia
 (2)Argentina
 (3)Mexico
