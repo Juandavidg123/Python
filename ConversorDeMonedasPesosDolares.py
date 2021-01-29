@@ -1,5 +1,5 @@
 def conversor(tipo_pesos, valor_dolar):
-    pesos = input("Cantidad de pesos colombiano" + tipos_pesos + ": ")
+    pesos = input("Cantidad de pesos colombiano" + tipo_pesos + ": ")
     pesos = float(pesos) 
     dolares = pesos / valor_dolar
     dolares = round(dolares, 3)
